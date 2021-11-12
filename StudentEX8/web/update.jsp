@@ -27,7 +27,7 @@
                     out.print("<br/>");
                 }
             } else {
-                out.println("No Data");
+                out.println("No Information");
             }
         %>
         <br/>
